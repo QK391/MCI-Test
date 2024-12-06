@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import CustomerList from "./components/CustomerList";
 import CustomerForm from "./components/CustomerForm";
 import Pagination from "./components/Pagination";
-import CreateUser from "./components/CreateUser";
+//import CreateUser from "./components/CreateUser";
 import { customers as mockData } from "./mockData";
 
 function App() {
